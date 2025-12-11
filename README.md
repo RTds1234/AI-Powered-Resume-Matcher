@@ -1,8 +1,9 @@
-📹 Demo Video
+### 🎬 Demo Video
 
-The repository includes a demonstration video:
+<video src="https://github.com/RTds1234/AI-Powered-Resume-Matcher/blob/main/Ai%20Powered%20Resume%20Matcher.mp4" controls width="600"></video>
 
-https://github.com/RTds1234/AI-Powered-Resume-Matcher/blob/main/Ai%20Powered%20Resume%20Matcher.mp4
+
+
 
 
 
@@ -115,6 +116,7 @@ resume_rahul.pdf → 61% match
 📄 requirements.txt
 
 spaCy
+
 scikit-learn  
 sentence-transformers  
 pdfminer.six  
