@@ -1,6 +1,8 @@
 📹 Demo Video
+
 The repository includes a demonstration video:
-Ai Powered Resume Matcher.mp4
+
+https://github.com/RTds1234/AI-Powered-Resume-Matcher/blob/main/Ai%20Powered%20Resume%20Matcher.mp4
 
 
 
@@ -26,11 +28,17 @@ This tool helps recruiters, HR professionals, and students quickly evaluate how 
 ---
 
 ## 📂 Project Structure
+
 📦 AI-Resume-Matcher
+
 ├── app.py # Streamlit web application
+
 ├── AI_Resume_Matcher.ipynb # Notebook version (for understanding logic)
+
 ├── requirements.txt # All dependencies
+
 ├── Ai Powered Resume Matcher.mp4 # Demo video
+
 └── README.md # Project documentation
 
 
@@ -95,7 +103,9 @@ score = cos_sim(jd_embedding, resume_embedding) * 100
 Then results are sorted high → low.
 
 📊 Output Example
+
 📊 Match Results  
+
 -------------------------  
 resume_john.pdf → 87% match  
 resume_priya.docx → 74% match  
@@ -103,6 +113,7 @@ resume_rahul.pdf → 61% match
 
 
 📄 requirements.txt
+
 spaCy
 scikit-learn  
 sentence-transformers  
