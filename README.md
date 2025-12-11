@@ -1,9 +1,5 @@
-### 🎬 Demo Video
-
-<video src="https://github.com/RTds1234/AI-Powered-Resume-Matcher/blob/main/Ai%20Powered%20Resume%20Matcher.mp4" controls width="600"></video>
-
-
-
+### 🎥 Demo Video
+https://github.com/user-attachments/assets/ba970ceb-7967-4ff7-aec0-d2b0b31b8cf2
 
 
 
